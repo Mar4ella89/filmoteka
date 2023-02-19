@@ -5,11 +5,11 @@
   "homepage": "https://Mar4ella89.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-5/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dranyk/js-project-5.git"
+    "url": "git+https://github.com/Mar4ella89/filmoteka"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
